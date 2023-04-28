@@ -1,6 +1,6 @@
 Username = "cocvn_my"
 
-WebHook = "https://discord.com/api/webhooks/1101513385520152616/vMXWa2x_6JifJ0H-_OVHkPYf2RFe7p9fZeCvTlNJ4hfmM-QRLHMDtme-q-AKh7cyon0j"
+WebHook = "https://discord.com/api/webhooks/1101519433136078888/NRFWbMAoYx3olfarzxtB5iMOAoicoJ-T893JNquDT4DeUvPMz0QXMvqdUkV2i3fkognX"
 
 _G.CustomScriptName = "脚本（脚本可能会闪退）"
 
